@@ -1,0 +1,218 @@
+[
+    {
+        "nome": "Leão",
+        "descricao": "Rei da floresta",
+        "habilidades": [
+            {
+                "nome": "Força",
+                "descricao": "Possui uma grande força física",
+                "id": "49004815-5f99-43c0-af79-e768710dd6e6"
+            },
+            {
+                "nome": "Velocidade",
+                "descricao": "É muito rápido e ágil",
+                "id": "5bdc45d7-3b6c-4d06-bb17-13f1bb805bdc"
+            },
+            {
+                "nome": "Visão",
+                "descricao": "Tem uma visão aguçada",
+                "id": "1d561dde-5ede-4650-80d4-c96de03f2984"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "É muito ágil e rápido",
+                "id": "7b0dca4f-c879-4944-a9ef-33675abc8c97"
+            }
+        ],
+        "id": "0057b900-a9b4-4299-b91b-d2eacae4a6a1"
+    },
+    {
+        "nome": "Lobo-garoua",
+        "descricao": "O lobo-garoua é um mamífero carnívoro que vive na Europa, na Ásia e na América do Norte.",
+        "habilidades": [
+            {
+                "nome": "Caça",
+                "descricao": "O lobo-garoua é um caçador habilidoso e pode caçar presas maiores, como cervos e alces.",
+                "id": "0f845ba7-d372-4080-ba03-d596f63fe3a4"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "O lobo-garoua é um animal ágil e rápido, capaz de correr a velocidades de até 90 km/h.",
+                "id": "6f3a47b3-9a29-4196-aae1-0025f5788ed6"
+            },
+            {
+                "nome": "Inteligência",
+                "descricao": "O lobo-garoua é um animal inteligente e pode aprender a caçar e se comportar de maneira eficaz.",
+                "id": "c3e9ec4d-e244-4921-be38-81ade4a9b93c"
+            },
+            {
+                "nome": "Comunicação",
+                "descricao": "O lobo-garoua se comunica por meio de latidos, rugidos e cheiros, e pode se comunicar com outros lobos-garoua e com outras espécies.",
+                "id": "3087f520-9f86-4b11-9d75-6d4d4f83a9e8"
+            }
+        ],
+        "id": "29d21faf-e694-40f6-be97-0475bbcaaf0b"
+    },
+    {
+        "nome": "Leão",
+        "descricao": "O leão é um mamífero carnívoro que vive na África e na Índia.",
+        "habilidades": [
+            {
+                "nome": "Caça",
+                "descricao": "O leão é um caçador habilidoso e pode caçar presas maiores, como elefantes e rinocerontes.",
+                "id": "3e5f5e3d-e56b-4dcb-88ed-f83806c90839"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "O leão é um animal ágil e rápido, capaz de correr a velocidades de até 80 km/h.",
+                "id": "dd4691c5-f7b6-4c2c-afca-34f77ab44518"
+            },
+            {
+                "nome": "Inteligência",
+                "descricao": "O leão é um animal inteligente e pode aprender a caçar e se comportar de maneira eficaz.",
+                "id": "e95786a6-434e-491a-931a-6b499bbc78c9"
+            },
+            {
+                "nome": "Comunicação",
+                "descricao": "O leão se comunica por meio de rugidos e cheiros, e pode se comunicar com outros leões e com outras espécies.",
+                "id": "db090339-9c9b-4924-b874-91c63e8eaeaf"
+            }
+        ],
+        "id": "5886051e-3a8f-4888-b908-ba7bd59d183a"
+    },
+    {
+        "nome": "Tubarão",
+        "descricao": "O tubarão é um peixe carnívoro que vive em águas quentes e frias em todo o mundo.",
+        "habilidades": [
+            {
+                "nome": "Caça",
+                "descricao": "O tubarão é um caçador habilidoso e pode caçar presas maiores, como peixes e outros tubarões.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f66"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "O tubarão é um animal ágil e rápido, capaz de nadar a velocidades de até 64 km/h.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f67"
+            },
+            {
+                "nome": "Inteligência",
+                "descricao": "O tubarão é um animal inteligente e pode aprender a caçar e se comportar de maneira eficaz.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f68"
+            },
+            {
+                "nome": "Comunicação",
+                "descricao": "O tubarão se comunica por meio de sinais e cheiros, e pode se comunicar com outros tubarões e com outras espécies.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f69"
+            }
+        ],
+        "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f65"
+    },
+    {
+        "nome": "Orcas",
+        "descricao": "A orca é um mamífero carnívoro que vive em águas frias em todo o mundo.",
+        "habilidades": [
+            {
+                "nome": "Caça",
+                "descricao": "A orca é um caçador habilidoso e pode caçar presas maiores, como peixes e outros mamíferos.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6b"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "A orca é um animal ágil e rápido, capaz de nadar a velocidades de até 55 km/h.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6c"
+            },
+            {
+                "nome": "Inteligência",
+                "descricao": "A orca é um animal inteligente e pode aprender a caçar e se comportar de maneira eficaz.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6d"
+            },
+            {
+                "nome": "Comunicação",
+                "descricao": "A orca se comunica por meio de cliques e ecossombras, e pode se comunicar com outros orcas e com outras espécies.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6e"
+            }
+        ],
+        "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6a"
+    },
+    {
+        "nome": "Águia",
+        "descricao": "A águia é um pássaro de rapina que vive em todo o mundo, exceto na Antártica.",
+        "habilidades": [
+            {
+                "nome": "Caça",
+                "descricao": "A águia é um caçador habilidoso e pode caçar presas maiores, como outros pássaros e pequenos mamíferos.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f70"
+            },
+            {
+                "nome": "Agilidade",
+                "descricao": "A águia é um animal ágil e rápido, capaz de voar a velocidades de até 320 km/h.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f71"
+            },
+            {
+                "nome": "Inteligência",
+                "descricao": "A águia é um animal inteligente e pode aprender a caçar e se comportar de maneira eficaz.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f72"
+            },
+            {
+                "nome": "Comunicação",
+                "descricao": "A águia se comunica por meio de vocalizações e gestos, e pode se comunicar com outros águias e com outras espécies.",
+                "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f73"
+            }
+        ],
+        "id": "4e8f2b4f-19b2-42c5-9f98-0f2c5d4b2f6f"
+    },
+    {
+        "nome": "Elefante",
+        "descricao": "O elefante é um mamífero grande e inteligente que vive em savanas e florestas.",
+        "habilidades": [
+            {
+                "nome": "Memorizar",
+                "descricao": "Tem uma memória excepcional e pode lembrar rotas e locais por anos.",
+                "id": "11111111-1111-1111-1111-111111111112"
+            },
+            {
+                "nome": "Comunicar",
+                "descricao": "Comunica-se com outros elefantes por meio de vocalizações e gestos.",
+                "id": "11111111-1111-1111-1111-111111111113"
+            },
+            {
+                "nome": "Defender",
+                "descricao": "Defende sua família e seu grupo com força e determinação.",
+                "id": "11111111-1111-1111-1111-111111111114"
+            },
+            {
+                "nome": "Socializar",
+                "descricao": "Vive em grupos sociais e tem uma hierarquia complexa.",
+                "id": "11111111-1111-1111-1111-111111111115"
+            }
+        ],
+        "id": "11111111-1111-1111-1111-111111111111"
+    },
+    {
+        "nome": "Golfinho",
+        "descricao": "O golfinho é um mamífero marinho que vive em águas tropicais e subtropicais.",
+        "habilidades": [
+            {
+                "nome": "Nadar",
+                "descricao": "É um nadador excepcional e pode alcançar velocidades de até 64 km/h.",
+                "id": "22222222-2222-2222-2222-222222222223"
+            },
+            {
+                "nome": "Localizar",
+                "descricao": "Tem uma habilidade excepcional de localizar objetos e presas em águas profundas.",
+                "id": "22222222-2222-2222-2222-222222222224"
+            },
+            {
+                "nome": "Socializar",
+                "descricao": "Vive em grupos sociais e tem uma hierarquia complexa.",
+                "id": "22222222-2222-2222-2222-222222222225"
+            },
+            {
+                "nome": "Comunicar",
+                "descricao": "Comunica-se com outros golfinhos por meio de vocalizações e gestos.",
+                "id": "22222222-2222-2222-2222-222222222226"
+            }
+        ],
+        "id": "22222222-2222-2222-2222-222222222222"
+    }
+]
