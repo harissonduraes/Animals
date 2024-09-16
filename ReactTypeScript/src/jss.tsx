@@ -7,7 +7,7 @@ export const Card = styled.div((
     return {
         border: '2px solid white',
         margin: '20px',
-        textAlign: 'start',
+        // textAlign: 'start',
         padding: '20px',
 
         maxWidth: '350px'
