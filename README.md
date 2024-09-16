@@ -6,11 +6,12 @@
 - ``npm run dev``
 
 ## Back-end
-- Somente executar
+- Ter o SDK do dotnet
 
 # Banco de dados
 - É usado o MongoDb
 - É preciso importar os dados no Json na Coleção com nome CadAnimal e Banco de dados com nome API_MVC ou importar o arquivo .agz
+  
 # Docker
 - Se preferir use o container do banco de dados e do front.
 - Use o comando dentro de cada pasta
